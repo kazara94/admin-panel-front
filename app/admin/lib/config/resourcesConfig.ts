@@ -133,12 +133,12 @@ const captionsConfig: ExtendedResourceConfig<CaptionType> = {
       //   type: 'dateRange',
       //   label: 'Created Date',
       // },
-      {
-        key: 'sortBy',
-        type: 'select',
-        label: 'Sort By',
-        options: [...CAPTION_SORT_OPTIONS],
-      },
+      // {
+      //   key: 'sortBy',
+      //   type: 'select',
+      //   label: 'Sort By',
+      //   options: [...CAPTION_SORT_OPTIONS],
+      // },
     ],
   },
   
