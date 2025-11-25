@@ -1,4 +1,4 @@
-# SmartSoft Admin Resource System
+#Admin Resource System
 
 A **Configuration-Driven Dynamic Resource Management System** for building admin panels. Add new resources with zero code by simply defining a configuration object. The system automatically generates UI components, API integration, filtering, pagination, and CRUD operations.
 
